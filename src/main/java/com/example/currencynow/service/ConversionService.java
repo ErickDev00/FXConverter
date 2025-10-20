@@ -17,7 +17,7 @@ public class ConversionService {
     @Value("${external.api.url}")
     private String apiUrl;
 
-    @Value("{external.api.key}")
+    @Value("${external.api.key}")
     private String apiKey;
 
     public ConversionResponseDTO convertCurrency(String from, String to, double amount){
@@ -52,9 +52,9 @@ public class ConversionService {
 
         } catch (Exception e){
 
+            e.printStackTrace();;
+
             System.err.println("Erro ao chamar API externa: " + e.getMessage());
-
-
             throw new RuntimeException("Falhou na hora de obter a conversão");
         }
 
