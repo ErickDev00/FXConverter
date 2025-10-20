@@ -33,7 +33,7 @@ Os dados de câmbio são obtidos ao vivo da [ExchangeRate-API](https://www.excha
 ### 2. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/ErickDev00/FXConverter.git](https://github.com/ErickDev00/FXConverter.git)
+git clone (https://github.com/ErickDev00/FXConverter.git)
 cd currencynow
 ```
 
