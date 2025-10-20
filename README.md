@@ -1,4 +1,4 @@
-# CurrencyNow API 💸
+# CurrencyNow API
 
 API REST que fornece taxas de câmbio e conversão de moedas em tempo real.
 
@@ -33,7 +33,7 @@ Os dados de câmbio são obtidos ao vivo da [ExchangeRate-API](https://www.excha
 ### 2. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/currencynow.git](https://github.com/seu-usuario/currencynow.git)
+git clone [https://github.com/ErickDev00/currencynow.git](https://github.com/seu-usuario/currencynow.git)
 cd currencynow
 ```
 
