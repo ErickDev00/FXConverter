@@ -2,9 +2,7 @@
 
 API REST que fornece taxas de câmbio e conversão de moedas em tempo real.
 
-Construí este projeto como parte do meu portfólio de back-end, com foco em criar uma API Java bem estruturada usando Spring Boot. 
-
-Com o principal objetivo de demonstrar o consumo de serviços externos (APIs de terceiros) e o gerenciamento seguro de chaves de API.
+Construí este projeto como parte do meu portfólio de back-end, com foco em criar uma API Java bem estruturada usando Spring Boot. Com o principal objetivo de demonstrar o consumo de serviços externos (APIs de terceiros) e o gerenciamento seguro de chaves de API.
 
 Os dados de câmbio são obtidos ao vivo da [ExchangeRate-API](https://www.exchangerate-api.com/).
 
